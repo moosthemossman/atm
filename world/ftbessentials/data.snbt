@@ -1,0 +1,8 @@
+{
+	warps: {
+		b: { dim: "minecraft:overworld", x: -11724, y: 50, z: 11541, time: 1749115011861L, xRot: 27.29996f, yRot: -72.15152f }
+		h: { dim: "minecraft:overworld", x: -11759, y: 52, z: 11557, time: 1749115023197L, xRot: 9.149957f, yRot: -1.9516296f }
+	}
+	mute_timeouts: { }
+	kits: { }
+}
